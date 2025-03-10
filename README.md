@@ -5,7 +5,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="60" width="80" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
+  <img align="center" height="30" width="40" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
 </div>
 
 ##
